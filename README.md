@@ -29,7 +29,21 @@
 
 
 ## Praneeth Vallabhaneni 
+<img src ="images/pp.jpg" width="200" height ="250" align ="right">
 
+* These are the topics of Deno and TypeScript, I would like to work on :
+
+-> Scripting with Deno
+
+-> File Processing with Deno
+
+-> Web Development with Deno
+
+* TypeScript
+
+-> String Interpolation in TypeScript
+
+-> TypeScript Conditional Operators
 
 
 ## Kunal Vohra 
