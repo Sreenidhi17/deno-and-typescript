@@ -6,9 +6,10 @@
 
 * I would be working on Deno and TypeScript of topics:
 1. Installation
--> which involes the the dowload and installation and also testing them
-2. Set Up the environment 
 
+-> which involes the the dowload and installation and also testing and updating the version
+2. Set Up the environment 
+-> 
 3. Using the TypeScript
 4. RunTime
 5. Linking to External Code
