@@ -21,7 +21,7 @@
 
 -> Finally Testing. 
 
-
+<img src ="images/filename (2k).jpg" width="200" height ="250" align ="right">
 
 ## Sai Prashansa Ambarkar
 
