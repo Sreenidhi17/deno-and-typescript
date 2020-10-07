@@ -10,11 +10,15 @@
 * I would be working on Deno and TypeScript of topics:
 
  Installation Set Up the environment for deno
--> which involes the the dowload, installation 
+ 
+- which involes the the dowload, installation 
 
  Implementation
+ 
 -> Using the TypeScript
+
 -> RunTime and Linking to External Code along with Standard Libraries 
+
 -> Finally Testing. 
 
 
