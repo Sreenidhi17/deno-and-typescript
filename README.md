@@ -16,6 +16,6 @@
 
 
 ## Kunal Vohra 
-<img src ="images/kunal-vohra" width="200" height ="250" align ="right">
+<img src ="images/kunal-vohra.jpg" width="200" height ="250" align ="right">
 
 
