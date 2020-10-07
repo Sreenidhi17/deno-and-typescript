@@ -26,7 +26,7 @@
 
 ## Sai Prashansa Ambarkar
 
-<img src ="images/dp.JPG" width="210" height ="240" align ="right">
+<img src ="images/dp.JPG" width="215" height ="235" align ="right">
 
 The topics I would be covering in Deno and TypeScript 
 
