@@ -118,10 +118,6 @@ Deno uses javascripts modern day library i.e. it can use the newer libraries whi
 <td><p>NodeJs program has access to anything a user can access</p></td>
 <td><p>Deno has a sandbox security layer using permissions</p></td>
 </tr>
-<tr>
-<td><p>NodeJs is written in javascript and C++</p></td>
-<td><p>Deno is written in typescript and Rust</p></td>
-</tr>
 </table>
 
 ### Possible web applications using TypeScript and Deno
