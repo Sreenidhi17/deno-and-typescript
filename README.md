@@ -7,6 +7,8 @@
 
 ## Sreenidhi Madala
 
+<img src ="images/filename (2k).jpg" width="200" height ="250" align ="right">
+
 * I would be working on Deno and TypeScript of topics:
 
  Installation Set Up the environment for deno
@@ -21,7 +23,8 @@
 
 -> Finally Testing. 
 
-<img src ="images/filename (2k).jpg" width="200" height ="250" align ="right">
+
+
 
 ## Sai Prashansa Ambarkar
 
