@@ -1,11 +1,21 @@
 # deno-and-typescript
 
-## Contributors 
+# Contributors 
 
-# Sreenidhi Madala
-# Sai Prashansa Ambarkar
-# Praneeth Vallabaneni
-# Kurt Vohra 
+## Sreenidhi Madala
+
+
+
+
+## Sai Prashansa Ambarkar
+
+
+
+## Praneeth Vallabaneni
+
+
+
+## Kurt Vohra 
 
 
 
