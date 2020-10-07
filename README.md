@@ -11,11 +11,9 @@
 
 * I would be working on Deno and TypeScript of topics:
 
- Installation Set Up the environment for deno
+ 1. Set Up the environment for deno
  
-- which involes the the dowload, installation 
-
- Implementation
+ 2. Implementation
  
 -> Using the TypeScript
 
