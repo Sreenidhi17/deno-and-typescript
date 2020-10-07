@@ -28,7 +28,7 @@
 
 <img src ="images/dp.JPG" width="200" height ="250" align ="right">
 
-*The topics I would be covering in Deno and TypeScript 
+The topics I would be covering in Deno and TypeScript 
 
 * I would be going the implementation and processing using Deno. 
 
