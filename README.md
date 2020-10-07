@@ -9,6 +9,11 @@
  Installation Set Up the environment for deno
 -> which involes the the dowload, installation 
 
+ Implementation
+-> Using the TypeScript
+-> RunTime and Linking to External Code along with Standard Libraries 
+-> Finally Testing. 
+
 
 
 ## Sai Prashansa Ambarkar
