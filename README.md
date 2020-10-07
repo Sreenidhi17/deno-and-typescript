@@ -28,7 +28,9 @@
 
 <img src ="images/dp.jpg" width="200" height ="250" align ="right">
 
-* The topics I would be covering in Deno and TypeScript would be Implementation and processing using Deno. Also as typeScript is an extention to javaScript I would be working on how to developing a small project based on it. I would also be working on debugging.
+* The topics I would be covering in Deno and TypeScript would be Implementation and processing using Deno. 
+* Also as typeScript is an extention to javaScript I would be working on how to developing a small project based on it.
+* I would also be working on debugging.
 
 
 
