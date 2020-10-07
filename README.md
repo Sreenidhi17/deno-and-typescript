@@ -29,7 +29,9 @@
 
 
 ## Praneeth Vallabhaneni 
+
 <img src ="images/pp.jpg" width="200" height ="250" align ="right">
+
 
 * These are the topics of Deno and TypeScript, I would like to work on :
 
