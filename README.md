@@ -34,6 +34,10 @@
 - Once the command is run we see a message 'server running on port 3020'
 - Then run http://localhost:3020/sree on your browser and you would see the json format output.
 
+### Commands required to perform the skill
+#### Before running the deno typescript we need to know basic commands.
+
+
 ## Sai Prashansa Ambarkar
 
 <img src ="images/dp.JPG" width="215" height ="235" align ="right">
