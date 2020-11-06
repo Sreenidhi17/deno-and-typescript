@@ -27,6 +27,12 @@
 - Visual Stuido code
 - justjavac.vscode-deno extension installed
 
+### Process
+- Clone the project from https://github.com/Sreenidhi17/deno-and-typescript
+- In the cloned folder open the Visual Stuido code
+- Open the terminal and run this command deno run --allow-net .\simpleServer.ts
+- Once the command is run we see a message 'server running on port 3020'
+- Then run http://localhost:3020/sree on your browser and you would see the json format output.
 
 ## Sai Prashansa Ambarkar
 
