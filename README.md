@@ -23,7 +23,9 @@
 
 -> create TypeScript and function
 
-
+# Prerequisites
+- Visual Stuido code
+- justjavac.vscode-deno extension installed
 
 
 ## Sai Prashansa Ambarkar
