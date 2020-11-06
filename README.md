@@ -45,6 +45,12 @@
 - --allow-read : Allows file system read access
 - --allow-all : Allows all permissions
 
+### References
+- https://deno.land/std@0.76.0
+- https://deno.land/manual@v1.5.1/getting_started/first_steps
+- https://www.freecodecamp.org/news/the-deno-handbook/
+- https://github.com/denoland/deno
+
 
 ## Sai Prashansa Ambarkar
 
