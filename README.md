@@ -36,6 +36,14 @@
 
 ### Commands required to perform the skill
 #### Before running the deno typescript we need to know basic commands.
+- deno --help : provides all the available connands in deno
+- deno run : run a program given a filename or url to the module
+- deno install : install script as an executable
+- deno cache : cache the dependencies
+- --allow-net : Allows network access
+- --allow-write : Allows file system write access
+- --allow-read : Allows file system read access
+- --allow-all : Allows all permissions
 
 
 ## Sai Prashansa Ambarkar
