@@ -50,6 +50,7 @@
 - https://deno.land/manual@v1.5.1/getting_started/first_steps
 - https://www.freecodecamp.org/news/the-deno-handbook/
 - https://github.com/denoland/deno
+- https://www.youtube.com/watch?v=NHHhiqwcfRM
 
 
 ## Sai Prashansa Ambarkar
