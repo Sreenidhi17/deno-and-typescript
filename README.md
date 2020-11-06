@@ -15,11 +15,13 @@
  
  2. Implementation
  
--> Using the TypeScript
+-> Create a deno-typeScript project
 
--> RunTime and Linking to External Code along with Standard Libraries 
+-> Linking to External Code along with Standard Libraries 
 
--> Finally Testing. 
+-> Create a controller for products
+
+-> create TypeScript and function
 
 
 
