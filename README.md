@@ -9,19 +9,19 @@
 
 <img src ="images/filename (2k).jpg" width="200" height ="250" align ="right">
 
-* I would be working on Deno and TypeScript of topics:
+ ## I would be working on Deno and TypeScript of topics:
 
  1. Set Up the environment for deno
  
  2. Implementation
  
--> Create a deno-typeScript project
+* Create a deno-typeScript project
 
--> Linking to External Code along with Standard Libraries 
+* Linking to External Code along with Standard Libraries 
 
--> Create a controller for products
+* Create a controller for products
 
--> create TypeScript and function
+* create TypeScript and function
 
 ### Prerequisites
 - Visual Stuido code
@@ -190,11 +190,16 @@ Deno can use an extensive set of open source modules modules hence it is safe to
 
 ### Some Cool links to check out (References)
 
-https://www.typescriptlang.org/docs/handbook/intro.html ,
-https://deno.land/x/ ,
-https://dev.to/am77/deno-v1-0-303j ,
-https://flaviocopes.com/deno/ ,
-https://www.freecodecamp.org/news/the-deno-handbook/,
+https://www.typescriptlang.org/docs/handbook/intro.html
+
+https://deno.land/x/ 
+
+https://dev.to/am77/deno-v1-0-303j 
+
+https://flaviocopes.com/deno/ 
+
+https://www.freecodecamp.org/news/the-deno-handbook/
+
 https://awesomeopensource.com/project/denoland/deno_website2
 
 
