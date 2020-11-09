@@ -57,15 +57,41 @@
 
 <img src ="images/dp.JPG" width="215" height ="235" align ="right">
 
-The topics I would be covering in Deno and TypeScript 
+  ## The topics I covered in Deno and TypeScript: 
+  
+    * I worked on the implementation and processing using Deno.    
+    * I worked on the typeScript and working of the code.
 
-* I would be going the implementation and processing using Deno. 
-
-* I would be working on javascript, html and Css to develop a small project.
-
-* I will put my hands on TypeScript as well.
-
-* I would also be working on debugging.
+  ## You need to:
+    * Download Visual Studio  
+    * Download the Chocolatey
+    * Download Deno
+    * Install Extension- justJavac (Deno Support for VS code from Market Place) 
+    * Download Postman Workplace (Optional)
+    
+  ## Commands to know? 
+    * To run deno - run your deno followed by the file name; i.e., " deno run appPrash.ts ". 
+   
+   Will that work? Nah! you will need to allow permissions 
+   
+    * To give permission and allow access; "deno run --allow-net appPrash.ts".
+   
+   What else you can know? Version and details? 
+    
+    * Know all deno details on your computer; " deno --help ".
+   
+   How to allow write and read?
+      
+    * "allow -write" and "allow -read"
+  
+  ## References
+  * https://chocolatey.org/
+  * https://deno.land/std@0.67.0/examples
+  * https://dev.to/am77/deno-v1-0-303j
+  * https://denocode.com/?page=examples
+  * https://www.postman.com/
+  * https://github.com/
+  * https://www.youtube.com/
 
 
 
