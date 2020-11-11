@@ -99,21 +99,35 @@
 
 <img src ="images/pp.jpg" width="200" height ="250" align ="right">
 
+I would like to demostarte on **Deno and Typescript** using read and write example.
 
-* These are the topics of Deno and TypeScript, I would like to work on :
+### Prerequisites:
+* vs studio code
+* Install the chocolatey
+* justjavac.vscode-deno extension installed
+* Download and Install Deno
+### Process:
+* Clone the project from https://github.com/Sreenidhi17/deno-and-typescript
+*  In the cloned folder open the Visual Stuidocode 
+* Open the terminal and run this command <br/>
+`` deno run --allow-read reading_text.ts ``
+* It will be reading from the sample text file.
+* Open the terminal and run this command <br/> 
+`` deno run --allow-write write.ts ``
+* It will be writing from the NameIntroduction.txt file.
+* The final write.ts output writes into the NameIntroduction.txt
+### Commands to run the program:
+* `` deno --help `` : provides all the available commands in deno
+* `` deno run `` : run a program given a filename or url to the module
+* `` deno install `` : install script as an executable
+* `` allow-write `` : Allows file system write access
+* `` allow-read `` : Allows file system read access
 
--> Scripting with Deno
-
--> File Processing with Deno
-
--> Web Development with Deno
-
-
-* TypeScript
-
--> String Interpolation in TypeScript
-
--> TypeScript Conditional Operators
+### References
+* [https://deno.land/manual@v1.5.2/examples/read_write_files](https://deno.land/manual@v1.5.2/examples/read_write_files)
+* [https://deno.land/manual@v1.5.2/getting_started/installation](https://deno.land/manual@v1.5.2/getting_started/installation)
+* [https://deno.land/manual@v1.5.2/getting_started/debugging_your_code](https://deno.land/manual@v1.5.2/getting_started/debugging_your_code)
+* [https://deno.land/manual@v1.5.2/getting_started/typescript](https://deno.land/manual@v1.5.2/getting_started/typescript)
 
 
 ## Kunal Vohra 
