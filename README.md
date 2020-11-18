@@ -83,6 +83,8 @@
    How to allow write and read?
       
     * "allow -write" and "allow -read"
+    
+  ## My demo video: https://use.vg/S1Rc7A
   
   ## References
   * https://chocolatey.org/
