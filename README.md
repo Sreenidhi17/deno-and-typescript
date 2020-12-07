@@ -207,6 +207,8 @@ Deno can use an extensive set of open source modules modules hence it is safe to
 
 4. Taking data from user to generate a graph
 
+### Video Link - https://app.vidgrid.com/view/n1kjN7PFpbj7
+### Repo Link - https://github.com/kvohra93/Deno-and-Typescript-Demo
 
 ### Some Cool links to check out (References)
 
